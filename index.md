@@ -36,3 +36,5 @@ aliases:
 
 > [!note] ## <u>***Who is Participating?***</u>
 > ![[BGDQ Participants.base]]
+
+## Adding this because ???
